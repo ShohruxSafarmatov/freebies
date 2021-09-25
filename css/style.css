@@ -23,6 +23,11 @@ padding-top: 50px;
   margin: auto;
   margin-top: 50px;
 }
+.form__item{
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
 .form__body{
   background: #FFD500;
   border-radius: 21.25px 0px 0px 21.25px;
@@ -240,10 +245,9 @@ form{
 }
 .btn{
   display: flex;
-  /* text-align: -webkit-auto; */
   justify-content: center;
   margin-left: 250px;
-  margin-top: 60px;
+  margin-top: 30px;
 }
 
 .form__btn {
