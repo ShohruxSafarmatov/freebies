@@ -56,7 +56,6 @@ padding-top: 50px;
   border-radius: 50%;
 }
 form{
-  display: flex;
   align-items: center;
   margin-top: 20px;
 }
