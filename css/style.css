@@ -11,12 +11,15 @@ body{
   font-family: 'Raleway', sans-serif;
   background: #F2F2F2;
 }
+.form__block{
+padding-top: 50px;
+}
 .form{
   display: flex;
   background: #ffffff;
   border-radius: 20px;
   width: 1100px;
-  height: 600px;
+  height: 700px;
   margin: auto;
   margin-top: 50px;
 }
@@ -24,7 +27,7 @@ body{
   background: #FFD500;
   border-radius: 21.25px 0px 0px 21.25px;
   width: 440px;
-  height: 600px;
+  height: 700px;
   padding: 90px;
 }
 .form__img{
